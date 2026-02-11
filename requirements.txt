@@ -1,0 +1,3 @@
+numpy
+matplotlib
+cryptographic-estimators==2.1.1
